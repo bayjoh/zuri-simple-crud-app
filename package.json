@@ -1,0 +1,28 @@
+{
+  "name": "zuri-simple-crud-app",
+  "version": "1.0.0",
+  "description": "A simple application to create, read, update and delete",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bayjoh/zuri-simple-crud-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bayjoh/zuri-simple-crud-app/issues"
+  },
+  "homepage": "https://github.com/bayjoh/zuri-simple-crud-app#readme",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
