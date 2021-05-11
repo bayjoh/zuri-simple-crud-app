@@ -4,7 +4,7 @@ A simple application to create, read, update and delete
 
 ## Link
 
-[Link](https://zuri-simple-crud-app.herokuapp.com/)
+Application [Link](https://zuri-simple-crud-app.herokuapp.com/)
 
   
 ## API Reference
