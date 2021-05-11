@@ -14,7 +14,7 @@ A simple application to create, read, update and delete
 ```http
   GET https://zuri-simple-crud-app.herokuapp.com/users
 ```
-## Response
+#### Response
 
 ```javascript
 {
@@ -53,7 +53,7 @@ A simple application to create, read, update and delete
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | **Required**. Id of user to fetch |
 
-## Response
+#### Response
 
 ```javascript
 {
@@ -73,7 +73,7 @@ A simple application to create, read, update and delete
 ```http
   POST https://zuri-simple-crud-app.herokuapp.com/users/
 ```
-## Request
+#### Request
 
 ```javascript
 {
@@ -83,7 +83,7 @@ A simple application to create, read, update and delete
 }
 ```
 
-## Response
+#### Response
 
 ```javascript
 {
@@ -108,7 +108,7 @@ A simple application to create, read, update and delete
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | **Required**. Id of user to fetch |
 
-## Request
+#### Request
 
 ```javascript
 {
@@ -118,7 +118,7 @@ A simple application to create, read, update and delete
 }
 ```
 
-## Response
+#### Response
 
 ```javascript
 {
@@ -143,7 +143,7 @@ A simple application to create, read, update and delete
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | **Required**. Id of user to fetch |
 
-## Response
+#### Response
 
 ```javascript
 {
